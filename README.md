@@ -17,13 +17,15 @@ Success is based on the metacritic score as there is no reliable way to find the
 
 ## Data
 
-Dataset is hosted on kaggle at:
+### Download
+
+The complete dataset is hosted on Kaggle.com:
 
 [https://www.kaggle.com/jesneuman/pc-games](https://www.kaggle.com/jesneuman/pc-games)
 
-## Blog
+### Blog
 
-Blog post outlining and explaining entire process:
+Outlines and explains the complete process for obtaining and saving the data:
 
 [https://medium.com/@Jesse989/creating-a-dataset-from-scratch-b8e2f8752436](https://medium.com/@Jesse989/creating-a-dataset-from-scratch-b8e2f8752436)
 
@@ -56,4 +58,4 @@ Blog post outlining and explaining entire process:
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
---------;
+------------

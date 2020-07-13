@@ -87,3 +87,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# scraped html that contains game urls
+/src/data/game_list.html
