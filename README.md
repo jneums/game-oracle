@@ -21,6 +21,12 @@ The metric for a succesful game is based on the rank of the game and what place 
 
 We can see the top spots are dominated by very succesful, familiar games.
 
+## App
+
+The completed app is hosted on Heroku:
+
+[https://game-oracle-ui.herokuapp.com/](https://game-oracle-ui.herokuapp.com/)
+
 
 ## Data
 
